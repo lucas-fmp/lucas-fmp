@@ -7,7 +7,7 @@
   
   <img height="165em" alt="Lucas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fmp&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
 
-  <img height="165em" alt="Lucas Github Status" src="https://github-readme-stats.vercel.app/api?username=lucas-fmp&theme=dark"/>
+  <img height="165em" alt="Lucas Github Status" src="https://github-readme-stats.vercel.app/api?username=lucas-fmp&theme=dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
