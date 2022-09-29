@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Lucas!</h1>
-<p align="center">I'm a Full-Stack Developer</p>
+<p align="center">I'm a Front-End Developer, currently studying Back-End</p>
 
 ---
 
