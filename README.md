@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Lucas!</h1>
-<p align="center">Desenvolvedor Front-End, atualmente estudando Back-End</p>
+<p align="center">Desenvolvedor Full Stack</p>
 
 ---
 
