@@ -2,6 +2,14 @@
     .knowledge {
         background: grey;
     }
+    .knowledge th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .knowledge tr:nth-child(1) { background: red; }
+    .knowledge tr:nth-child(2) { background: orange; }
+    .knowledge tr:nth-child(3) { background: green; }
 </style>
 
 
