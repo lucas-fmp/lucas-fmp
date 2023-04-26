@@ -1,9 +1,3 @@
-<style>
-  table {
-    background-color: #f5f5f5; /* cor de fundo desejada */
-  }
-</style>
-
 <h1 align="center">Olá, eu sou o Lucas!</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
