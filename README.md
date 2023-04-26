@@ -1,18 +1,3 @@
-<style>
-    .knowledge {
-        background: grey;
-    }
-    .knowledge th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .knowledge tr:nth-child(1) { background: red; }
-    .knowledge tr:nth-child(2) { background: orange; }
-    .knowledge tr:nth-child(3) { background: green; }
-</style>
-
-
 <h1 align="center">Olá, eu sou o Lucas!</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
@@ -28,7 +13,14 @@
 
 ##
 
-<div align="center" class="knowledge">
+<style>
+    tr:nth-child(even) {
+      background-color: #b2b2b2!important;
+      color: #f4f4f4!important;
+    }
+</style>
+
+<div align="center">
 
 | Tools  | Languages | Frameworks  | Technologies |  
 |---|---|---|---|
