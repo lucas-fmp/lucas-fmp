@@ -1,8 +1,6 @@
 <style>
-    .knowledge th {
+    .knowledge {
         background: grey;
-        word-wrap: break-word;
-        text-align: center;
     }
 </style>
 
