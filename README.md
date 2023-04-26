@@ -1,5 +1,15 @@
 <h1 align="center">Olá, eu sou o Lucas!</h1>
-<p align="center">Desenvolvedor Full Stack</p>
+<p align="center">
+  
+  Desenvolvedor Web Full-Stack, com conhecimento também em desenvolvimento mobile.
+
+  Formado no curso de Desenvolvimento Web da Trybe, onde realizei mais de 40 projetos que colocaram em prática todos os conhecimentos por lá ensinados, como React, Node, Python, Docker e diversas outros frameworks e ferramentas, além de diversos conteúdos de softskills e metodologias ágeis.
+
+  Tenho facilidade e paixão em aprender novas tecnologias, o que me permite estar sempre atualizado e acompanhando as tendências do mercado.
+
+  Fique à vontade para me contatar através do meu GitHub ou LinkedIn. Estou sempre em busca de novos desafios e projetos interessantes. Obrigado por visitar meu perfil!
+
+</p>
 
 ---
 
@@ -13,11 +23,11 @@
 
 ##
 
-<div align="center">
+<div align="center" style="background-color: #000000;">
 
 | Tools  | Languages | Frameworks  | Technologies |  
 |---|---|---|---|
-|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" style="filter: invert(1)"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" style="filter: invert(1)"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>|
+|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30" style="filter: invert(1)"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" style="filter: invert(1)"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30"/>|<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;&nbsp;<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="30" height="30"/>|
 
 </div>
 
