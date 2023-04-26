@@ -1,3 +1,12 @@
+<style>
+    .knowledge th {
+        background: grey;
+        word-wrap: break-word;
+        text-align: center;
+    }
+</style>
+
+
 <h1 align="center">Olá, eu sou o Lucas!</h1>
 <p align="center">Desenvolvedor Full Stack</p>
 
@@ -13,7 +22,7 @@
 
 ##
 
-<div align="center">
+<div align="center" class="knowledge">
 
 | Tools  | Languages | Frameworks  | Technologies |  
 |---|---|---|---|
