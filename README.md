@@ -7,7 +7,7 @@
 
   Tenho facilidade e paixão em aprender novas tecnologias, o que me permite estar sempre atualizado e acompanhando as tendências do mercado.
 
-  Fique à vontade para me contatar através do meu GitHub ou LinkedIn. Estou sempre em busca de novos desafios e projetos interessantes. Obrigado por visitar meu perfil!
+  Fique à vontade para me contatar através do meu GitHub, LinkedIn ou Email. Estou sempre em busca de novos desafios e projetos interessantes. Obrigado por visitar meu perfil!
 
 </p>
 
