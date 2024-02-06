@@ -1,14 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas!</h1>
 <p align="center">
-  
-  Desenvolvedor Web Full-Stack, com conhecimento também em desenvolvimento mobile.
-
-  Formado no curso de Desenvolvimento Web da Trybe, onde realizei mais de 40 projetos que colocaram em prática todos os conhecimentos por lá ensinados, como React, Node, Python, Docker e diversas outros frameworks e ferramentas, além de diversos conteúdos de softskills e metodologias ágeis.
-
-  Tenho facilidade e paixão em aprender novas tecnologias, o que me permite estar sempre atualizado e acompanhando as tendências do mercado.
-
-  Fique à vontade para me contatar através do meu GitHub, LinkedIn ou Email. Estou sempre em busca de novos desafios e projetos interessantes. Obrigado por visitar meu perfil!
-
+  Obrigado por visitar meu perfil!
 </p>
 
 ---
