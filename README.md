@@ -1,97 +1,103 @@
-<h1 align="center">Hi, I'm Lucas Macedo 👋</h1>
+<h1 align="center">Olá, eu sou o Lucas Macedo 👋</h1>
 
 <p align="center">
-  Full Stack Developer focused on <strong>Backend, Cloud and scalable solutions</strong>
+  Desenvolvedor Full Stack com foco em <strong>backend, cloud e soluções escaláveis</strong>
 </p>
 
 <p align="center">
-  I build practical products with strong business awareness, solid backend foundations and a hands-on mindset.
+  Construo aplicações com base técnica sólida, visão de negócio e atenção à qualidade, organização e evolução do software.
 </p>
 
 <p align="center">
   <a href="mailto:lucasfernandomacedo13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=1F6FEB" alt="email badge"/>
+    <img src="https://img.shields.io/badge/Email-Contato-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/lucas-fmp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-- 💼 Currently working in technology at **Banco do Brasil**
-- ⚙️ Stronger on **Java backend**, especially with **Quarkus**
-- 🌐 I also enjoy building with **React**, **React Native**, **Node.js** and modern web tools
-- ☁️ Interested in **cloud**, **DevOps**, deployment pipelines and scalable architectures
-- 🧠 I like solving problems with both **technical depth** and **business awareness**
-- 🚀 Open to great opportunities, especially **remote** and **international** ones
+- 💼 Atualmente atuo com tecnologia no **Banco do Brasil**
+- ⚙️ Tenho maior afinidade com **backend em Java**, especialmente com **Quarkus**
+- 🌐 Também desenvolvo aplicações com **React**, **React Native**, **JavaScript** e **TypeScript**
+- ☁️ Tenho interesse em **cloud**, **DevOps**, pipelines de build/deploy e arquitetura escalável
+- 🧪 Também trabalho com ferramentas de **integração contínua**, automação e testes
+- 🧠 Gosto de resolver problemas unindo **visão técnica** e **entendimento de negócio**
+- 🤝 Valorizo comunicação, colaboração, senso de prioridade e entregas bem construídas
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tecnologias e ferramentas
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs" />
-  <img src="https://cdn.simpleicons.org/quarkus/4695EB" height="48" alt="Quarkus" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### Frontend & Mobile
+### Frontend e Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### DevOps, Cloud & Tools
+### DevOps, CI/CD e Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### Databases
+### Bancos de dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### Testes
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testes-2C2C2C?style=for-the-badge&logo=testinglibrary&logoColor=red" />
 </p>
 
 ---
 
-## 📊 GitHub stats
+## 📌 O que você vai encontrar por aqui
 
-<div align="center">
-  <img height="165em" alt="Lucas Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fmp&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-  <img height="165em" alt="Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucas-fmp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img alt="Lucas GitHub Streak" src="https://streak-stats.demolab.com?user=lucas-fmp&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</div>
+- Aplicações backend com **Java** e **Quarkus**
+- Projetos full stack com **React**, **TypeScript** e **Node.js**
+- Experimentos mobile com **React Native**
+- Estudos e aplicações práticas com **Docker**, **Kubernetes**, **Jenkins** e **GitHub Actions**
+- Projetos com foco em organização, manutenibilidade e uso real
 
 ---
 
-## 🌟 Featured projects
+## 🚀 Interesses atuais
 
-Here are some projects and experiments that represent how I like to build software:
+Atualmente, tenho focado meus estudos e projetos em temas como:
 
-- **Aparco** — project I'm especially proud of, combining product thinking, implementation, and deployment structure
-- **Landing pages / web apps** — projects where I explore frontend, responsiveness and user experience
-- **Backend and full stack experiments** — hands-on repositories to test ideas, architecture and tooling
-
-> I enjoy building software end-to-end: from interface and API design to deployment and maintainability.
-
----
-
-## 📌 What you’ll usually find here
-
-- Backend applications with **Java** and **Quarkus**
-- Full stack projects using **React**, **TypeScript** and **Node.js**
-- Mobile experiments with **React Native**
-- Studies and practical work around **Docker**, **Kubernetes** and deployment workflows
-- Projects focused on clean structure, maintainability and real-world usability
+- arquitetura backend
+- cloud e DevOps
+- automação de build e deploy
+- qualidade de software e testes
+- aplicações full stack com boa estrutura e manutenibilidade
 
 ---
 
-## 🤝 Let's connect
+## 🤝 Contato
 
 <p>
   <a href="mailto:lucasfernandomacedo13@gmail.com">
